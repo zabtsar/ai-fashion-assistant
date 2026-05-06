@@ -83,23 +83,10 @@ ai-fashion-assistant/
 ├── .gitignore
 │
 ├── screenshots/
-│   ├── flow-diagram.png
-│   ├── chat-output.png
-│   └── astra-db.png
-│
-└── docs/
-    └── project-documentation.pdf
+
 ```
 
 ---
-
-## Example Use Cases
-
-* “What outfit matches black cargo pants?”
-* “Suggest casual outfits for campus”
-* “What colors match navy blue sneakers?”
-* “Recommend minimalist fashion styles”
-
 ---
 
 ## Installation
@@ -137,11 +124,14 @@ fashion-assistant-langflow.json
 ---
 
 ## Screenshots
+<img width="1366" height="727" alt="fashions_4" src="https://github.com/user-attachments/assets/5e137f57-212f-4b07-8838-ea130383a9d3" />
+<img width="1366" height="725" alt="fashions_3" src="https://github.com/user-attachments/assets/e898c761-3f6a-4efd-a76a-02de9e9ab37e" />
+<img width="1366" height="727" alt="fashions_2" src="https://github.com/user-attachments/assets/0f4233cb-1d0b-4845-967c-096d1fc82363" />
+<img width="1366" height="728" alt="fashions_1" src="https://github.com/user-attachments/assets/9c196a77-d224-4ee0-8449-e1968f1b41fc" />
 
-(Add your screenshots here)
 
 * Langflow Flow Diagram
-* Astra DB Collection
+* Example Use case
 * Final Chat Result
 
 ---
